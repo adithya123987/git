@@ -1,3 +1,2 @@
 hello world
-This is world --> ABCD
-This is num -->1234
+This is word -->ABCD
