@@ -1,3 +1,7 @@
 hello world
+This is a text  --> ABCD
+This is a num -->1234
+My name is adithya 
 This is word -->ABCD
 This is num -->123
+
